@@ -1,6 +1,7 @@
 
 
 ##[11-11-13] Challenge #142 [Easy] Falling Sand
+#http://www.reddit.com/r/dailyprogrammer/comments/1rdtky/111113_challenge_142_easy_falling_sand/
 
 f = open("challenge142.txt")
 raw_data = [x for x in f.read() if x != "\n"]

@@ -1,5 +1,6 @@
 
 ## [11-28-13] Challenge #137 [Intermediate / Hard] Banquet Planning
+#http://www.reddit.com/r/dailyprogrammer/comments/1rnrs2/112813_challenge_137_intermediate_hard_banquet/
 
 f = open("challenge137I.txt")
 raw_data = [line.strip("\n") for line in f.readlines()]
