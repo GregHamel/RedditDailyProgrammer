@@ -1,7 +1,7 @@
 #[12-16-13] Challenge #145 [Easy] Tree Generation
 #http://www.reddit.com/r/dailyprogrammer/comments/1t0r09/121613_challenge_145_easy_tree_generation/
 
-base_size, stump, needles = 13,"=","+"
+base_size, stump, needles = 21,"=","+"
 
 def draw_tree(base_size, stump, needles):
     levels = (base_size//2)+1

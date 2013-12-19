@@ -4,7 +4,6 @@
 
 import string
 
-
 f = open("Challenge139.txt")
 
 num_lines = int(f.readline())

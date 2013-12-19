@@ -45,7 +45,7 @@ def get_next(orders):
     for i in next_items:
         items_left.remove(i)
 
-    #This seciton removes rules that are no longer needed
+    #This section removes rules that are no longer needed
     dead_rules = []
     for item in next_items:
         for rule in rules:
