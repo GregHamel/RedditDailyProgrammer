@@ -33,10 +33,9 @@ def draw_fractal():
     turt.penup()
     turt.goto(-75, -225)
     turt.pendown()
-    turt.hideturtle()
     turt.speed(0)
     turt.left(90)
-    fractal(turt, 1, 10)
+    fractal(turt, 1, 12)
     window.exitonclick()
 
 draw_fractal()
